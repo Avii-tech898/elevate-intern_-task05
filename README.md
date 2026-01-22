@@ -4,7 +4,7 @@ Task 5: Data Cleaning with Pandas
 This project demonstrates basic data reading and cleaning using Python (Pandas) on the Titanic dataset.
 It shows how Python can efficiently replace manual Excel-based data cleaning.
 
-🛠️ Tools
+Tools
 
 Python
 
